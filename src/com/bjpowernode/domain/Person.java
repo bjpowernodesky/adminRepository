@@ -16,11 +16,18 @@ public class Person {
 
     private String address;
 
+
+    private String gender;
+
+    private String bran22;
+
+    private String bran2;
+
     private int age;
 
     private String bran11;
 
     private  String bran1;
-    
+
 
 }
