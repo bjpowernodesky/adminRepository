@@ -20,6 +20,7 @@ public class Person {
 
     private String bran11;
 
+    private  String bran1;
     
 
 }
