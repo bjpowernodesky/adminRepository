@@ -18,6 +18,9 @@ public class Person {
 
     private String gender;
 
+    private String bran22;
+
+
     
 
 }
